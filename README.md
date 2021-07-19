@@ -51,3 +51,20 @@ $ yarn install
 # Inicie a Aplicação Web
 $ yarn start
 ```
+
+## :computer: Web Images
+
+  <p align="center" style="border-radius:6px">
+    <kbd>
+    <img width="450" height="auto" src='https://github.com/gustavobrierre/Desafio-DTI/blob/master/Home.png'>    
+    </kbd> 
+    <kbd>
+    <img width="450" height="auto" src='https://github.com/gustavobrierre/Desafio-DTI/blob/master/Cadastro-produto.png'>     
+    </kbd>
+  <kbd>
+    <img width="450" height="auto" src='https://github.com/gustavobrierre/Desafio-DTI/blob/master/Lista-Produtos.png'>     
+    </kbd>
+  <kbd>
+    <img width="450" height="auto" src='https://github.com/gustavobrierre/Desafio-DTI/blob/master/Edição-produto.png'>     
+    </kbd>
+  </p>
